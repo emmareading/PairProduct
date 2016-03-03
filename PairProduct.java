@@ -13,6 +13,7 @@
 
    B. Bird - 05/01/2014
 */
+//Emma Reading - University of Victoria
 
 import java.util.Scanner;
 import java.util.Vector;
